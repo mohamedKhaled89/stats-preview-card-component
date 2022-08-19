@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/3-column-preview-card-component]
-- Live Site URL: [https://mohamedkhaled89.github.io/3-column-preview-card-component/]
+- Solution URL: [https://github.com/mohamedKhaled89/stats-preview-card-component]
+- Live Site URL: [https://mohamedkhaled89.github.io/stats-preview-card-component/]
 
 ## My process
 
